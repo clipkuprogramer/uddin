@@ -1,2 +1,0 @@
-# uddin
-codingan pertama 
